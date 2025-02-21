@@ -3,4 +3,11 @@ autogen-agentchat
 azure-identity
 azure-ai-inference
 aiohttp
-dotenv
+python-dotenv
+yfinance
+matplotlib
+pytz
+numpy
+pandas
+requests
+bs4
