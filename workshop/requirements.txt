@@ -1,0 +1,6 @@
+autogen-ext[openai]
+autogen-agentchat
+azure-identity
+azure-ai-inference
+aiohttp
+dotenv
